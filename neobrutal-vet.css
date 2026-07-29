@@ -7,14 +7,14 @@
 }
 
 :root {
-  --nb-ink: #26313b;
-  --nb-paper: #f4eee5;
-  --nb-pink: #eab0bd;
-  --nb-yellow: #f3d982;
-  --nb-blue: #9fb6d8;
-  --nb-green: #b9d3b2;
-  --nb-orange: #e6aa84;
-  --nb-white: #fffaf2;
+  --nb-ink: #3f4b54;
+  --nb-paper: #faf5ee;
+  --nb-pink: #f5cad5;
+  --nb-yellow: #f8e7a7;
+  --nb-blue: #c8d9f0;
+  --nb-green: #cfe4d0;
+  --nb-orange: #f3cfb5;
+  --nb-white: #fffdf9;
   --nb-display: "Vet Brutal", Impact, sans-serif;
   --nb-ui: Arial, Helvetica, sans-serif;
 }
